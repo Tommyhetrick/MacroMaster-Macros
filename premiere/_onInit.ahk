@@ -5,7 +5,7 @@
 
 output := Map()
 
-waitBetween := 100
+waitBetween := 200
 ; @TODO when I make a focus function, change these
 Send "+1"
 Sleep waitBetween
